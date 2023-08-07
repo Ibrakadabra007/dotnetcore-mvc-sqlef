@@ -9,7 +9,9 @@ updated from original: Ibrakadabra007
 
 # .NET Core MVC sample for Azure App Service
 
-This is a sample application that demos using EntityFramework, SqlLite, and MVC.  Ref. at 
+This is a sample application that demos using EntityFramework, SqlLite, and MVC. Updated the Data model and schema: Todo.cs
+
+Ref. at 
 [Build a .NET Core and SQL Database web app in Azure Web Apps for Containers](https://docs.microsoft.com/azure/app-service/containers/tutorial-dotnetcore-sqldb-app). 
 
 ## Packages
