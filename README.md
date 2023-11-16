@@ -3,8 +3,7 @@
 ---
 services: app-service\web,app-service
 platforms: dotnet
-original-author: cephalin
-updated from original: Ibrakadabra007
+author: Ibrakadabra007
 ---
 
 # .NET Core MVC sample for Azure App Service
