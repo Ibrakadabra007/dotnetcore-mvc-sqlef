@@ -1,8 +1,8 @@
 # dotnetcore-mvc-sqlef
 
 ---
-services: app-service\web,app-service
-platforms: dotnet
+services: app-service\web,app-service\ 
+platforms: dotnet\ 
 author: Ibrakadabra007
 ---
 
